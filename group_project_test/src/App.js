@@ -9,6 +9,7 @@ class App extends Component {
         <nav>
           <h1>Dalini Pillai</h1>
         </nav>
+        <main>Isaac is the main</main>
       </div>
     );
   }
